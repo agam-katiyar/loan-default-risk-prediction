@@ -1,0 +1,13 @@
+# environments and VCS
+venv/
+.git/
+
+# not needed at runtime
+notebooks/
+data/
+reports/
+*.ipynb
+
+# python junk
+__pycache__/
+*.pyc

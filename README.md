@@ -44,7 +44,7 @@ LR wins on the held-out test set. Tree models overfit to SMOTE-inflated CV folds
 | Feature Engineering | ✅ Done |
 | Modeling | ✅ Done |
 | Evaluation + SHAP | ✅ Done |
-| API + Docker | 🔄 In progress |
+| API + Docker | ✅ Done |
 
 ## Structure
 

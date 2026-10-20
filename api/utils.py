@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 
-MODEL_PATH = os.getenv("MODEL_PATH", "models/xgboost_final.pkl")
+MODEL_PATH = os.getenv("MODEL_PATH", "models/lr_final.pkl")
 SCALER_PATH = os.getenv("SCALER_PATH", "models/scaler.pkl")
 
 # must match exactly the column order used during training (after dropping monthly_debt & income_per_dependent)
